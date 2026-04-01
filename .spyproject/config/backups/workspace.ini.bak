@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['O_GEST_Algorithm_Python\\main.py', 'O_GEST_Algorithm_Python\\gest_one_landmark.py', 'O_GEST_Algorithm_Python\\gest_one_landmark_utils.py', 'O_GEST_Algorithm_Python\\events_finder.py', 'O_GEST_Algorithm_Python\\visualisation_gest.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
